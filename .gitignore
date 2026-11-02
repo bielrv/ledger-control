@@ -1,0 +1,5 @@
+results/*.jsonl
+!results/scored.jsonl
+__pycache__/
+.env*
+results/log.txt
