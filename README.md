@@ -10,6 +10,8 @@ A small AI-control experiment built in November 2026. An AI agent (Claude Opus 5
 
 Everything is synthetic. Supplier bank accounts use an invalid `XX` country code.
 
+**Paper:** [Fail Closed: Accounting Controls and LLM Monitors for an AI Agent That Pays Suppliers](paper/paper.pdf) (4 pages; LaTeX source in `paper/`).
+
 ## Results
 
 15 honest sessions and 30 attacked copies (5 per fraud pattern). The honest agent ran a perfect close in all 15 sessions (every ground-truth check passed), at about $0.13 per session.

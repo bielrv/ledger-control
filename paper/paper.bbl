@@ -1,0 +1,81 @@
+\begin{thebibliography}{12}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{{Association of Certified Fraud Examiners}(2024)}]{acfe2024}
+{Association of Certified Fraud Examiners}. 2024.
+\newblock Occupational Fraud 2024: A Report to the Nations.
+
+\bibitem[{Baker et~al.(2025)Baker, Huizinga, Gao, Dou
+  et~al.}]{baker2025monitoring}
+Baker, B.; Huizinga, J.; Gao, L.; Dou, Z.; et~al. 2025.
+\newblock Monitoring Reasoning Models for Misbehavior and the Risks of
+  Promoting Obfuscation.
+\newblock ArXiv:2503.11926.
+
+\bibitem[{Benton et~al.(2024)Benton, Wagner, Christiansen, Anil
+  et~al.}]{benton2024sabotage}
+Benton, J.; Wagner, M.; Christiansen, E.; Anil, C.; et~al. 2024.
+\newblock Sabotage Evaluations for Frontier Models.
+\newblock ArXiv:2410.21514.
+
+\bibitem[{Bhatt et~al.(2025)Bhatt, Rushing, Kaufman, Tracy
+  et~al.}]{bhatt2025ctrlz}
+Bhatt, A.; Rushing, C.; Kaufman, A.; Tracy, T.; et~al. 2025.
+\newblock {Ctrl-Z}: Controlling {AI} Agents via Resampling.
+\newblock ArXiv:2504.10374.
+
+\bibitem[{{Committee of Sponsoring Organizations of the Treadway
+  Commission}(2013)}]{coso2013}
+{Committee of Sponsoring Organizations of the Treadway Commission}. 2013.
+\newblock Internal Control -- Integrated Framework.
+
+\bibitem[{Cui et~al.(2024)Cui, Chiang, Stoica, and Hsieh}]{cui2024orbench}
+Cui, J.; Chiang, W.-L.; Stoica, I.; and Hsieh, C.-J. 2024.
+\newblock {OR-Bench}: An Over-Refusal Benchmark for Large Language Models.
+\newblock ArXiv:2405.20947.
+
+\bibitem[{Greenblatt et~al.(2024)Greenblatt, Shlegeris, Sachan, and
+  Roger}]{greenblatt2024control}
+Greenblatt, R.; Shlegeris, B.; Sachan, K.; and Roger, F. 2024.
+\newblock {AI} Control: Improving Safety Despite Intentional Subversion.
+\newblock In \emph{Proceedings of the 41st International Conference on Machine
+  Learning}.
+\newblock ArXiv:2312.06942.
+
+\bibitem[{Korbak et~al.(2025)Korbak, Balesni, Barnes, Bengio
+  et~al.}]{korbak2025cot}
+Korbak, T.; Balesni, M.; Barnes, E.; Bengio, Y.; et~al. 2025.
+\newblock Chain of Thought Monitorability: A New and Fragile Opportunity for
+  {AI} Safety.
+\newblock ArXiv:2507.11473.
+
+\bibitem[{Kutasov et~al.(2025)Kutasov, Sun, Colognese, van~der Weij, Petrini,
+  Zhang, Hughes, Deng, Sleight, Tracy, Shlegeris, and
+  Benton}]{kutasov2025shade}
+Kutasov, J.; Sun, Y.; Colognese, P.; van~der Weij, T.; Petrini, L.; Zhang, C.
+  B.~C.; Hughes, J.; Deng, X.; Sleight, H.; Tracy, T.; Shlegeris, B.; and
+  Benton, J. 2025.
+\newblock {SHADE-Arena}: Evaluating Sabotage and Monitoring in {LLM} Agents.
+\newblock ArXiv:2506.15740.
+
+\bibitem[{Rosi{\~n}ol~Vidal(2026)}]{ledgercontrol}
+Rosi{\~n}ol~Vidal, G. 2026.
+\newblock ledger-control: Code and Data.
+\newblock \url{https://github.com/bielrv/ledger-control}.
+
+\bibitem[{R{\"o}ttger et~al.(2024)R{\"o}ttger, Kirk, Vidgen, Attanasio,
+  Bianchi, and Hovy}]{rottger2024xstest}
+R{\"o}ttger, P.; Kirk, H.~R.; Vidgen, B.; Attanasio, G.; Bianchi, F.; and Hovy,
+  D. 2024.
+\newblock {XSTest}: A Test Suite for Identifying Exaggerated Safety Behaviours
+  in Large Language Models.
+\newblock In \emph{Proceedings of NAACL}.
+\newblock ArXiv:2308.01263.
+
+\bibitem[{Terekhov et~al.(2025)Terekhov, Panfilov, Dzenhaliou, Gulcehre
+  et~al.}]{terekhov2025adaptive}
+Terekhov, M.; Panfilov, A.; Dzenhaliou, D.; Gulcehre, C.; et~al. 2025.
+\newblock Adaptive Attacks on Trusted Monitors Subvert {AI} Control Protocols.
+\newblock ArXiv:2510.09462.
+
+\end{thebibliography}

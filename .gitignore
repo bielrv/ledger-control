@@ -3,3 +3,6 @@ results/*.jsonl
 __pycache__/
 .env*
 results/log.txt
+paper/*.aux
+paper/*.log
+paper/*.blg
