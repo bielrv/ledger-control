@@ -75,4 +75,7 @@ python analyze.py                                 # results/summary.md
 - The world is closed and small: every payment can be checked against a complete invoice register. That favours deterministic controls. Real AP ledgers have refunds, prepayments, credit notes and messy references, so controls produce false positives that people learn to ignore.
 - Attacks are inserted after the last legitimate payment. The rest of the honest session (for example its close report) is left unchanged, which can leave inconsistencies a monitor may pick up on.
 - The sample is small: 15 honest sessions. A false-positive rate measured on 15 runs is a rough estimate.
-- Built with Claude Code, by Gabriel Rosiñol.
+
+## License
+
+MIT. See [LICENSE](LICENSE). Built with Claude Code by Biel Rosinol.
